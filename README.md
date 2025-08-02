@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-ey there! I'm **Sonu** 👋  
+I'm **Sonu** 👋  
 📚 CSE undergraduate @ Darbhanga College of Engineering (1st Year)  
 💡 Exploring programming, app development & creative tools  
 🤖 Currently tinkering with automation, academic platforms & technical setup  
