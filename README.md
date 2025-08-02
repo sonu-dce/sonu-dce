@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+ey there! I'm **Sonu** 👋  
+📚 CSE undergraduate @ Darbhanga College of Engineering (1st Year)  
+💡 Exploring programming, app development & creative tools  
+🤖 Currently tinkering with automation, academic platforms & technical setup  
+🏏 Loyal RCB fan (Go Royal Challengers!)  
+🌐 Connect with me:  
+&nbsp;&nbsp;&nbsp;&nbsp;📸 [Instagram: @thesonukr_](https://instagram.com/thesonukr_)  
+&nbsp;&nbsp;&nbsp;&nbsp;💼 [LinkedIn: thesonu](https://linkedin.com/in/thesonu)
+
+
 <!--
 **sonu-dce/sonu-dce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
