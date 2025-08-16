@@ -3,8 +3,7 @@
 I'm **Sonu** 👋  
 📚 CSE undergraduate @ Darbhanga College of Engineering (1st Year)  
 💡 Exploring programming, app development & creative tools  
-🤖 Currently tinkering with automation, academic platforms & technical setup  
-🏏 Loyal RCB fan (Go Royal Challengers!)  
+🤖 Currently tinkering with automation, academic platforms & technical setup    
 🌐 Connect with me:  
 &nbsp;&nbsp;&nbsp;&nbsp;📸 [Instagram: @thesonukr_](https://instagram.com/thesonukr_)  
 &nbsp;&nbsp;&nbsp;&nbsp;💼 [LinkedIn: thesonu](https://linkedin.com/in/thesonu)
