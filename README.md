@@ -5,7 +5,7 @@ I'm **Sonu** 👋
 💡 Exploring programming, app development & creative tools  
 🤖 Currently tinkering with automation, academic platforms & technical setup    
 🌐 Connect with me:  
-&nbsp;&nbsp;&nbsp;&nbsp;📸 [Instagram: @thesonukr_](https://instagram.com/_thesonu)  
+&nbsp;&nbsp;&nbsp;&nbsp;📸 [Instagram: @_thesonu](https://instagram.com/_thesonu)  
 &nbsp;&nbsp;&nbsp;&nbsp;💼 [LinkedIn: thesonu](https://linkedin.com/in/thesonu)
 
 
